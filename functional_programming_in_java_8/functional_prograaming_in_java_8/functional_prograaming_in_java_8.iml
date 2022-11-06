@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/10_easy_parallelization" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1_assignment_less" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2_higher_order_functions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_refactoring_from_external_to_internal_iterators" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_declarative_first" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5_functional_next" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6_lambdas_vs_closures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7_favor_immutability" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8_function_composition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9_lazy_evaluation" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

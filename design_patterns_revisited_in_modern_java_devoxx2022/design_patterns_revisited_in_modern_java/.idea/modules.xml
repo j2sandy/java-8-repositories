@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator/decorator.iml" filepath="$PROJECT_DIR$/decorator/decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eam/eam.iml" filepath="$PROJECT_DIR$/eam/eam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factorymethod/factorymethod.iml" filepath="$PROJECT_DIR$/factorymethod/factorymethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fluency/fluency.iml" filepath="$PROJECT_DIR$/fluency/fluency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iterator/iterator.iml" filepath="$PROJECT_DIR$/iterator/iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lazy/lazy.iml" filepath="$PROJECT_DIR$/lazy/lazy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/option/option.iml" filepath="$PROJECT_DIR$/option/option.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy/strategy.iml" filepath="$PROJECT_DIR$/strategy/strategy.iml" />
+    </modules>
+  </component>
+</project>
